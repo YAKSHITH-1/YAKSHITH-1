@@ -110,4 +110,4 @@ const yakshith = {
     learning: ["Cloud", "System Design"]
 };
 
-console.log("Welcome to Yakshith's GitHub 🚀");
+console.log("Welcome to Yakshith's GitHub ");
