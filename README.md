@@ -49,7 +49,6 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://skillicons.dev/icons?i=convex" />
 </p>
 
 </details>
@@ -61,17 +60,6 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>Authentication</b></summary>
-
-<br>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=clerk" />
 </p>
 
 </details>
@@ -93,7 +81,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ae" />
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 </details>
@@ -105,10 +93,6 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-<p align="left">
-<b>Antigravity</b>
 </p>
 
 </details>
