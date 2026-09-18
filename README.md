@@ -1,10 +1,20 @@
-<h1 align="center"> <img src="./assets/giphy.gif" width="280" alt="Banner"/> </h1>
+<h1 align="center">
+  <img src="./assets/giphy.gif" width="280" alt="Banner"/>
+</h1>
 
-<h3 align="center"> Full Stack Developer • React Native Developer </h3>
+<h3 align="center">
+Full Stack Developer • React Native Developer
+</h3>
 
-<p align="center"> Building scalable web applications, cross-platform mobile apps, and backend solutions. </p>
+<p align="center">
+Building scalable web applications, cross-platform mobile apps, and backend solutions.
+</p>
 
-<p align="center"> <a href="https://github.com/YAKSHITH-1"> <img src="https://github-stats-alpha.vercel.app/api?username=YAKSHITH-1&cc=00000000&tc=22D3EE&ic=7C3AED&bc=00000000" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/YAKSHITH-1">
+    <img src="https://github-stats-alpha.vercel.app/api?username=YAKSHITH-1&cc=00000000&tc=22D3EE&ic=7C3AED&bc=00000000" />
+  </a>
+</p>
 
 ---
 
@@ -38,7 +48,8 @@
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,convex" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://cdn.simpleicons.org/convex/000000" width="48" height="48" alt="Convex"/>
 </p>
 
 </details>
@@ -60,16 +71,31 @@
 <br>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+<img src="https://cdn.simpleicons.org/clerk/6C47FF" width="48" height="48" alt="Clerk"/>
 </p>
 
 </details>
 
-<details open> <summary><b>Design & Creative</b></summary>
+<details open>
+<summary><b>Game Development</b></summary>
 
 <br>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="48" height="48" alt="After Effects"/> </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>Design & Creative</b></summary>
+
+<br>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="48" height="48" alt="After Effects"/>
+</p>
 
 </details>
 
@@ -80,7 +106,10 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Antigravity"/>
 </p>
 
 </details>
@@ -95,7 +124,13 @@ const yakshith = {
     role: "Full Stack Developer",
     location: "Bangalore, India",
 
-    languages: ["C", "C++", "Java", "JavaScript", "TypeScript"],
+    languages: [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+    ],
 
     frontend: [
         "React",
@@ -118,9 +153,13 @@ const yakshith = {
         "MySQL"
     ],
 
-    authentication: ["Clerk"],
+    authentication: [
+        "Clerk"
+    ],
 
-    gameDevelopment: ["Unity"],
+    gameDevelopment: [
+        "Unity"
+    ],
 
     creativeTools: [
         "Figma",
