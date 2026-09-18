@@ -65,26 +65,11 @@
 
 </details>
 
-<details open>
-<summary><b>Game Development</b></summary>
+<details open> <summary><b>Design & Creative</b></summary>
 
 <br>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=unity" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>Design & Creative</b></summary>
-
-<br>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="48" height="48" alt="After Effects"/> </p>
 
 </details>
 
