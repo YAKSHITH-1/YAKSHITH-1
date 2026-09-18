@@ -105,7 +105,9 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 const yakshith = {
     name: "Yakshith V",
     role: "Full Stack Developer",
-    location: "Bangalore, India",
+    stack: ["React", "React Native", "Node.js", "Next.js"],
+    tools: ["Convex", "Clerk", "Unity", "Figma", "After Effects", "Antigravity"],
+    learning: ["Cloud", "System Design"]
+};
 
-console.log(`Welcome to ${yakshith.name}'s GitHub `);
-}
+console.log("Welcome to Yakshith's GitHub 🚀");
