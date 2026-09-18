@@ -70,7 +70,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=clerk" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
 
 </details>
@@ -87,12 +87,13 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 </details>
 
 <details open>
-<summary><b>Design & Creative Tools</b></summary>
+<summary><b>Design & Creative</b></summary>
 
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,aftereffects" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </p>
 
 </details>
@@ -104,10 +105,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-<p align="left">
-  <b>Antigravity</b>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 </details>
@@ -122,15 +120,51 @@ const yakshith = {
     role: "Full Stack Developer",
     location: "Bangalore, India",
 
-    frontend: ["React", "React Native", "Next.js"],
-    backend: ["Node.js", "Express.js", "Convex"],
-    database: ["MongoDB", "PostgreSQL", "MySQL"],
-    authentication: ["Clerk"],
-    gameDevelopment: ["Unity"],
-    creativeTools: ["Figma", "After Effects"],
-    developmentTools: ["Git", "GitHub", "VS Code", "Postman", "Antigravity"],
+    languages: ["C", "C++", "Java", "JavaScript", "TypeScript"],
 
-    currentlyLearning: ["Next.js", "Cloud", "System Design"]
+    frontend: [
+        "React",
+        "React Native",
+        "Next.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Convex"
+    ],
+
+    database: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+    ],
+
+    authentication: ["Clerk"],
+
+    gameDevelopment: ["Unity"],
+
+    creativeTools: [
+        "Figma",
+        "Adobe After Effects"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Antigravity"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "Cloud",
+        "System Design"
+    ]
 };
 
 console.log(`Welcome to ${yakshith.name}'s GitHub 🚀`);
