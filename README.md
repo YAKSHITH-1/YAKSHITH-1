@@ -48,7 +48,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,convex" />
 </p>
 
 </details>
