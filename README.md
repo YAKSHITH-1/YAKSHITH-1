@@ -49,7 +49,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://cdn.simpleicons.org/convex/000000" width="48" height="48" alt="Convex"/>
+<img src="https://skillicons.dev/icons?i=convex" />
 </p>
 
 </details>
@@ -71,7 +71,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/clerk/6C47FF" width="48" height="48" alt="Clerk"/>
+<img src="https://skillicons.dev/icons?i=clerk" />
 </p>
 
 </details>
@@ -93,8 +93,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="48" height="48" alt="After Effects"/>
+<img src="https://skillicons.dev/icons?i=figma,ae" />
 </p>
 
 </details>
@@ -109,7 +108,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 </p>
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Antigravity"/>
+<b>Antigravity</b>
 </p>
 
 </details>
@@ -182,4 +181,3 @@ const yakshith = {
 };
 
 console.log(`Welcome to ${yakshith.name}'s GitHub 🚀`);
-```
