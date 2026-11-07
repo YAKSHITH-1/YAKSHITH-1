@@ -1,10 +1,12 @@
-<h1 align="center">
-  <img src="./assets/giphy.gif" width="280" alt="Banner"/>
-</h1>
+
 
 <p align="center">
 <img src="https://www.gitskins.com/api/section/wordmark?username=yakshith-1&theme=dracula&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189635455%3Fu%3D8ed96a7b70ff1cc66831f3e9628e2b0e55565823%26v%3D4&v=showcase-wordmark-2" alt="YAKSHITH.V wordmark visual" />
 </p>
+
+<h1 align="center">
+  <img src="./assets/giphy.gif" width="280" alt="Banner"/>
+</h1>
 
 <h3 align="center">
 Full Stack Developer • React Native Developer
