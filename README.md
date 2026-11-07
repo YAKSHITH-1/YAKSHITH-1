@@ -92,7 +92,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode,postman,docker,kubernetes" />
 </p>
 
 </details>
