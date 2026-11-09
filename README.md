@@ -8,11 +8,11 @@
   <img src="./assets/giphy.gif" width="280" alt="Banner"/>
 </h1>
 
-<h3 style="text-align: center; font-family: 'Redaction 50';">
+<h3 align= center >
 Full Stack Developer • React Native Developer
 </h3>
 
-<p style="text-align: center; font-family: 'Redaction 50';">
+<p align= center >
 Building scalable web applications, cross-platform mobile apps, and backend solutions.
 </p>
 
