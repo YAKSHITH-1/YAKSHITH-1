@@ -8,19 +8,15 @@
   <img src="./assets/giphy.gif" width="280" alt="Banner"/>
 </h1>
 
-<h3 align="center">
+<h3 style="text-align: center; font-family: 'Redaction 50';">
 Full Stack Developer • React Native Developer
 </h3>
 
-<p align="center">
+<p style="text-align: center; font-family: 'Redaction 50';">
 Building scalable web applications, cross-platform mobile apps, and backend solutions.
 </p>
 
-<p align="center">
-  <a href="https://github.com/YAKSHITH-1">
-    <img src="https://github-stats-alpha.vercel.app/api?username=YAKSHITH-1&cc=00000000&tc=22D3EE&ic=7C3AED&bc=00000000" />
-  </a>
-</p>
+
 
 ---
 
