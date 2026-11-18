@@ -7,12 +7,10 @@
 </h1>
 
 <h3 align= center >
-Full Stack Developer • React Native Developer
+Full Stack Developer • React Native Developer • AI Engineer
 </h3>
 
-<p align= center >
-Building scalable web applications, cross-platform mobile apps, and backend solutions.
-</p>
+
 
 
 
