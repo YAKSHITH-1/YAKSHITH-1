@@ -26,7 +26,7 @@ Building scalable web applications, cross-platform mobile apps, and backend solu
 <br>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
 </details>
